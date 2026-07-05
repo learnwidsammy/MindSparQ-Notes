@@ -1,0 +1,6 @@
+{
+  "name": "MindSparQ",
+  "description": "A privacy-first AI-powered personal knowledge workspace inspired by Google Keep, Obsidian, and Notion, enhanced with Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
